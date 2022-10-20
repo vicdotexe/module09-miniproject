@@ -1,0 +1,23 @@
+{
+  "name": "module09-miniproject",
+  "version": "1.0.0",
+  "description": "html file generation with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicdotexe/module09-miniproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicdotexe/module09-miniproject/issues"
+  },
+  "homepage": "https://github.com/vicdotexe/module09-miniproject#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
